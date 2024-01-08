@@ -12,3 +12,6 @@ Then, run one of main*.py files
 
 python main-revnano-apply-on-a-file.py
 ![image](https://github.com/h-ismkhan/run-revnano-on-windows/assets/59805170/4024d3c8-b26c-42ca-8048-bc4d30df3ff8)
+
+
+PLEASE NOTE: you can change the input and output directory from main*.py, please check it.
