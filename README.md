@@ -7,3 +7,4 @@ In Command Prompt, enter into directory run-revnano-on-windows, using cd command
 ![image](https://github.com/h-ismkhan/run-revnano-on-windows/assets/59805170/17f6a8d8-eb8a-4c95-9afb-f7b85a8a932d)
 Then, run one of main*.py files
 python main-revnano-apply-on-a-file.py
+![image](https://github.com/h-ismkhan/run-revnano-on-windows/assets/59805170/4024d3c8-b26c-42ca-8048-bc4d30df3ff8)
